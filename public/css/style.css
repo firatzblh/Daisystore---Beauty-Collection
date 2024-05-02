@@ -1,0 +1,84 @@
+body {
+    background-image: url('https://i.pinimg.com/736x/f7/e3/bc/f7e3bce0bb31b3fbce4339fd90a37849.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    transition: box-shadow 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+    animation: shake 0.5s ease;
+}
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(5px); }
+    50% { transform: translateX(-5px); }
+    75% { transform: translateX(3px); }
+    100% { transform: translateX(0); }
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+
+.btn1 {
+    background-color: hsl(331, 100%, 85%);
+    border: none;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+.btn1:hover {
+    background-color: #666666;
+}
+
+.btn2 {
+    background-color: hsl(331, 100%, 85%);
+    border: none;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+.btn2:hover {
+    background-color: #666666;
+}
+
+.table-container {
+    background-color: rgba(252, 232, 247, 0.7);
+    border-radius: 8px;
+    padding: 20px;
+    overflow: auto;
+}
+
+.text-br {
+    color: rgb(0, 0, 0);
+    background-color: rgba(252, 232, 247, 0.7);
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+h4, label, .bi-person-circle {
+    color: #000000;
+}
