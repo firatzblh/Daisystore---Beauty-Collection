@@ -22,9 +22,9 @@
                                 <div class="card-body">
                                     <h5 class="card-title">About Me</h5>
                                     <ul class="list-group list-group-flush">
-                                        <li class="list-group-item">Name: <br><i class="bi bi-person"></i> Shafira Daffa Tzabilah</li>
-                                        <li class="list-group-item">NIM: <br><i class="bi bi-card-text"></i> 1204220</li>
-                                        <li class="list-group-item">Email: <br><i class="bi bi-envelope"></i> ShafiraDaffaTzabilah@gmail.com</li>
+                                        <li class="list-group-item">Name: <br><i class="bi bi-person"></i> Shafira Daffa Tzabillah</li>
+                                        <li class="list-group-item">NIM: <br><i class="bi bi-card-text"></i> 1204220130</li>
+                                        <li class="list-group-item">Email: <br><i class="bi bi-envelope"></i> firatzblh.03@gmail.com</li>
                                         <li class="list-group-item">Domisili: <br><i class="bi bi-geo-alt"></i> Surabaya</li>
                                         <li class="list-group-item">Institut: <br><i class="bi bi-building"></i> University Telkom Surabaya</li>
                                     </ul>
