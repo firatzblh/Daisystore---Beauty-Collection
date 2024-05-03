@@ -5,7 +5,7 @@
 - **Name:** Shafira Daffa Tzabillah
 - **NIM:** 1204220130
 - **Email:** firatzblh.03@gmail.com
-- **Location:** Surabaya
+- **Live:** Surabaya
 - **College:** University Telkom Surabaya
 
 ## 🚀 About Me
