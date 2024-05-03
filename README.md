@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hello there! 👋 I'm Shafira, a dynamic and enthusiastic individual passionate about leveraging technology to drive positive change. Currently pursuing my degree in Information Systems at University Telkom Surabaya, I thrive in environments where creativity and innovation intersect.
+Hello there! 👋 I'm fira, a dynamic and enthusiastic individual passionate about leveraging technology to drive positive change. Currently pursuing my degree in Information Systems at University Telkom Surabaya, I thrive in environments where creativity and innovation intersect.
 
 🔍 **Exploration:** Constantly curious and eager to learn, I dive headfirst into new technologies and methodologies, always seeking opportunities to broaden my skill set.
 
