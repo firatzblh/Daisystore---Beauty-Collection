@@ -14,8 +14,5 @@ class ProfileController extends Controller
         return view('profile', compact('user'));
     }
 
-    public function edit()
-    {
-        return view('profile.edit');
-    }
+
 }
