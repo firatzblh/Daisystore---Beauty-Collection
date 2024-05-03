@@ -1,4 +1,4 @@
-# 🌟 My Profile 
+# 🌟 My Profile 🌟
 
 ![Profile Picture](resources/images/profile.jpg)
 
