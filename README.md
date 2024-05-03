@@ -1,4 +1,4 @@
-# 🌟 Shafira Daffa Tzabilah 🌟
+# 🌟 Shafira Daffa Tzabillah 🌟
 
 ![Profile Picture](resources/images/profile.jpg)
 
