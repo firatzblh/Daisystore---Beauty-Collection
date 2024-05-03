@@ -1,4 +1,3 @@
-<!-- actions.blade.php -->
 <a href="{{ route('items.show', $item->id) }}" class="btn2"><i class="bi-person-lines-fill"></i></a>
 <a href="{{ route('items.edit', $item->id) }}" class="btn2"><i class="bi-pencil-square"></i></a>
 <form action="{{ route('items.destroy', $item->id) }}" method="POST" style="display: inline;">
