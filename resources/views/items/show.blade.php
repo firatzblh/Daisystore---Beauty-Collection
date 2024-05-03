@@ -2,6 +2,7 @@
 
 @section('content')
     <div class="container">
+        <br>
         <div class="card">
             <div class="card-header">
                 <h2 class="card-title">{{ $item->nama }}</h2>
