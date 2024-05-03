@@ -2,9 +2,9 @@
 
 ![Profile Picture](resources/images/profile.jpg)
 
-- **Name:** Shafira Daffa Tzabilah
-- **NIM:** 1204220
-- **Email:** ShafiraDaffaTzabilah@gmail.com
+- **Name:** Shafira Daffa Tzabillah
+- **NIM:** 1204220130
+- **Email:** firatzblh.03@gmail.com
 - **Location:** Surabaya
 - **University:** University Telkom Surabaya
 
