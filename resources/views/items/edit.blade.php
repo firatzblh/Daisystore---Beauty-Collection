@@ -20,7 +20,6 @@
                             <div class="text-danger"><small>{{ $message }}</small></div>
                             @enderror
                         </div>
-                        <!-- Tambahkan elemen untuk menampilkan gambar saat ini -->
                         <div class="mb-3">
                             <label for="image" class="form-label">Gambar Saat Ini</label>
                             <img src="{{ $item->image_url }}" class="img-fluid" alt="Gambar Saat Ini">
