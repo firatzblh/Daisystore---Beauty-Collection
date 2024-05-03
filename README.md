@@ -6,7 +6,7 @@
 - **NIM:** 1204220130
 - **Email:** firatzblh.03@gmail.com
 - **Location:** Surabaya
-- **University:** University Telkom Surabaya
+- **College:** University Telkom Surabaya
 
 ## 🚀 About Me
 
